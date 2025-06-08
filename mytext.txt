@@ -1,0 +1,6 @@
+
+This is the content that will overwrite the content of the text file content and the previous content will be erased
+this will be the new content of the text file, which you will see after the execution of the program.
+
+
+You can enter any number of new lines and text and any number of tabs	 		as you can see.
