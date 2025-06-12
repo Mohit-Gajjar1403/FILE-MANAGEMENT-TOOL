@@ -2,6 +2,18 @@
 
 ## File Handling with C++
 
+*COMPANY* : CODETECH IT SOLUTION
+
+*NAME* : MOHIT GAJJAR
+
+*INTERN ID* : CT04DF386
+
+*DOMAIN* : C++ PROGRAMMING
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
 - In this code I want to access the required file and want to do the basic operations on the file like : 
     - Read
     - Write or
